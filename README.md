@@ -4,7 +4,7 @@ Mission
 Give every professional a proactive AI collaborator that understands their context in real time and helps at exactly the right moment, so they never have to stop working to get help.
 Our one-line goal
 Build Promptless AI across web, mobile, and desktop in 6 weeks — and engage real customers from week one.
-
+ 
 3. The Problem We Solve
    Every professional repeats this loop hundreds of times a week:
    Stop working and open a chatbot in another tab.
