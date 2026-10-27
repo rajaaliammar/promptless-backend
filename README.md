@@ -6,7 +6,7 @@ Our one-line goal
 Build Promptless AI across web, mobile, and desktop in 6 weeks — and engage real customers from week one.
                                                
 3. The Problem We Solve
-   Every professional repeats this loop hundreds of times a week:
+   Every professional repeats this loop hundreds of times a week:                                                          
    Stop working and open a chatbot in another tab.
    Copy content out of the app they're using.
    Write a prompt describing what they want.
