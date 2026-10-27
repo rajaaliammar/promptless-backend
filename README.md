@@ -1,7 +1,7 @@
 Vision
 A world where AI is not a chatbot you visit, but an intelligent layer that lives alongside every application — reducing friction, anticipating needs, and making work feel effortless.
 Mission                                          
-Give every professional a proactive AI collaborator that understands their context in real time and helps at exactly the right moment, so they never have to stop working to get help.
+Give every professional a proactive AI collaborator that understands their context in real time and helps at exactly the right moment, so they never have to stop working to get help.                     
 Our one-line goal
 Build Promptless AI across web, mobile, and desktop in 6 weeks — and engage real customers from week one.
                                                
