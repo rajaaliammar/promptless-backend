@@ -7,7 +7,7 @@ Build Promptless AI across web, mobile, and desktop in 6 weeks — and engage re
                                                
 3. The Problem We Solve               
    Every professional repeats this loop hundreds of times a week:                                                          
-   Stop working and open a chatbot in another tab.
+   Stop working and open a chatbot in another tab.              
    Copy content out of the app they're using.
    Write a prompt describing what they want.
    Wait for the answer, then copy it back.
